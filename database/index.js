@@ -1,2 +1,2 @@
-export * from './database';
-export * from './doctypes';
+export * from './Database';
+export * from './docTypes';
